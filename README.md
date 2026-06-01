@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Justin 👋
+# Hi, I'm Justin
 
 ### Aspiring AI/ML Developer
 
