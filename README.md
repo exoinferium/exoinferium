@@ -25,7 +25,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-**GitHub Stats**
+## GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=exoinferium&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=exoinferium&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=exoinferium&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
